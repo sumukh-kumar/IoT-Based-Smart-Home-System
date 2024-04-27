@@ -19,4 +19,4 @@ This Project aims to create a Smart Home System that turns a fan and an LED ON/O
 - LiquidCrystal_I2C.h by Frank de Brabander
 
 ## Circuit Diagram
-![Circuit Diagram](Circuit_Diagram.svg)
+![Circuit Diagram](Circuit_Diagram.png)
